@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DavidFerrandizMarvel</string>
+    <string name="see_all_characters_button">Show all characters</string>
+    <string name="character_list_toolbar_title">Characters</string>
+    <string name="fav">Fav</string>
+    <string name="favorite_menu_item">Show favorites</string>
+    <string name="all_characters_favorite_menu_item">Show all characters</string>
+    <string name="retry_button">Retry</string>
+</resources>
